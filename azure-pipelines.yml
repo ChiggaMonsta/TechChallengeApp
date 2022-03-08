@@ -17,3 +17,4 @@ steps:
 - task: Go@0
   inputs:
     command: 'build'
+    workingDirectory: '$(Build.SourcesDirectory)'
