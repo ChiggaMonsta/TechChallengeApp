@@ -27,9 +27,9 @@ import (
 	"net/http"
 	"strconv"
 
+	"././db"
+	"././model"
 	"github.com/gorilla/mux"
-	"github.com/servian/TechChallengeApp/db"
-	"github.com/servian/TechChallengeApp/model"
 )
 
 // TaskID parameter.

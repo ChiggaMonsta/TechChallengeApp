@@ -26,8 +26,8 @@ import (
 	"net/http"
 	"time"
 
+	"././db"
 	"github.com/gorilla/mux"
-	"github.com/servian/TechChallengeApp/db"
 )
 
 // Config configuration for ui package
