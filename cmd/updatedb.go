@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/servian/TechChallengeApp/db"
+	"././db"
 	"github.com/spf13/cobra"
 )
 
