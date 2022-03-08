@@ -24,8 +24,8 @@ import (
 	"fmt"
 	"os"
 
-	"././daemon"
-	"./config"
+	"github.com/ChiggaMonsta/TechChallengeApp/blob/develop/config"
+	"github.com/ChiggaMonsta/TechChallengeApp/blob/develop/daemon"
 	"github.com/spf13/cobra"
 )
 

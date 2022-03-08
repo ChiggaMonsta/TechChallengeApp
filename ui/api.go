@@ -27,8 +27,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"././db"
-	"././model"
+	"github.com/ChiggaMonsta/TechChallengeApp/blob/develop/db"
+	"github.com/ChiggaMonsta/TechChallengeApp/blob/develop/model"
 	"github.com/gorilla/mux"
 )
 

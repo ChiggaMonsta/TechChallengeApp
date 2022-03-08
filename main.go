@@ -28,7 +28,7 @@
 // swagger:meta
 package main
 
-import "./cmd"
+import "github.com/ChiggaMonsta/TechChallengeApp/blob/develop/cmd"
 
 //import "github.com/servian/TechChallengeApp/cmd"
 

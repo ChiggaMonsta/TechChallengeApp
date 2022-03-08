@@ -27,7 +27,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"./ui"
+	"github.com/ChiggaMonsta/TechChallengeApp/blob/develop/ui"
 )
 
 // Config - configuration for daemon package

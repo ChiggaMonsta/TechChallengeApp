@@ -26,7 +26,7 @@ import (
 	"net/http"
 	"time"
 
-	"././db"
+	"github.com/ChiggaMonsta/TechChallengeApp/blob/develop/db"
 	"github.com/gorilla/mux"
 )
 

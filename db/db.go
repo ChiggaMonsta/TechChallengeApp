@@ -27,7 +27,7 @@ import (
 
 	"github.com/lib/pq"
 
-	"./model"
+	"github.com/ChiggaMonsta/TechChallengeApp/blob/develop/model"
 	_ "github.com/lib/pq"
 )
 
